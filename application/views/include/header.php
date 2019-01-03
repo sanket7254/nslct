@@ -74,7 +74,7 @@
                                 <li><a href="career">Careers</a></li>
                             </ul>
                         </li>
-                        <li><a href="project">All Projects</a></li>
+                        <li><a href="project">Projects</a></li>
                         <li><a href="service">Services</a></li>
                         <li><a href="gallery">Gallery</a></li>
                         <li><a href="contactus">Contact</a></li>
