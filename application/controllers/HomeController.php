@@ -73,10 +73,12 @@ class HomeController extends CI_Controller
         $name = $this->input->post("name");
 		$mail = $this->input->post("email");
 		$phone = $this->input->post("phone");
-		$message = $this->input->post("comments");
+		$comments = $this->input->post("comments");
 
         if($this->upload->do_upload('resume'))
 		{
+			$message = "Hello,<br>";
+
 			$data=$this->upload->data();
 	        $attachment_path=$data["raw_name"].$data['file_ext'];	
 
@@ -86,7 +88,7 @@ class HomeController extends CI_Controller
 			$this->email->to('sanketchidrawar@gmail.com.com');
 			$this->email->cc('p.ahire04@gmail.com');
 
-			$this->email->subject('Email Test');
+			$this->email->subject('Carrer information.');
 			$this->email->message('Testing the email class.');
 			$this->email->attach($attachment_path);
 
@@ -122,5 +124,44 @@ class HomeController extends CI_Controller
             $this->session->set_flashdata('status','btn-success');
             redirect($_SERVER['HTTP_REFERER']);
 		}
+	}
+
+	public function contact_info()
+	{
+		$name = $this->input->post("name");
+		$mail = $this->input->post("email");
+		$phone = $this->input->post("phone");
+		$comments = $this->input->post("comments");
+
+		$message = "Hello,<br>This email is regarding the enquiry by ".ucfirst($name).".Details about the enquiry are given below.<br><b>Name</b>: ".ucfirst($name).".<br><b>Email</b>: ".$mail.".<br><b>Contact Number</b>: ".$phone.".<br><b>Message</b>: ".$comments.".<br><br><br>Thank You!";
+		
+		$this->load->library('email');
+
+		$this->email->from($mail);
+		$this->email->to('sanketchidrawar@gmail.com');
+
+		$this->email->subject('Enquiry.');
+		$this->email->message($message);
+
+		if($this->email->send())
+		{
+			$success="Enquiry Successful...!";
+            $this->session->set_flashdata('success',$success);
+            $this->session->set_flashdata('status','btn-success');
+            redirect($_SERVER['HTTP_REFERER']);
+		}
+		else
+		{
+			$unsuccess="Enquiry Unsuccessful...!";
+            $this->session->set_flashdata('success',$unsuccess);
+            $this->session->set_flashdata('status','btn-success');
+            redirect($_SERVER['HTTP_REFERER']);
+		}
+	}
+
+	public function subscribe()
+	{
+		echo "string";
+		exit();
 	}
 }

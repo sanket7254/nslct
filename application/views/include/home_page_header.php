@@ -72,7 +72,7 @@
                     <ul class="nav navbar-nav">
                         <li><a href="home">Home</span></a></li>
                         <li class="dropdown">
-                            <a href="aboutus" class="dropdown-toggle" data-toggle="dropdown">About<span class="fa fa-angle-down"></span></a>
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">About<span class="fa fa-angle-down"></span></a>
                             <ul class="dropdown-menu">
                                 <li><a href="aboutus">About US</a></li>
                                 <li><a href="clients">Our Clients</a></li>

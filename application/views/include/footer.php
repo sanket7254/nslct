@@ -1,7 +1,7 @@
 <footer class="footer">
         <div id="newsletter" class="container">
             <div class="newsletterform wow slideInUp">
-                <form class="form-inline">
+                <form class="form-inline" method="post" action="HomeController/subscribe">
                     <div class="form-group">
                         <label for="exampleInputEmail2">Get<br>
                         <span>Connect</span><br>with us.</label>

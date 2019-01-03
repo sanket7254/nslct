@@ -34,10 +34,7 @@
                                 </div>
                             </div>  
                         </div>
-                        <h5><a href="#">Allied cilvil work</a></h5>       
-                        <div class="meta">
-                            <span><i class="fa fa-folder-o"></i> Building</span>
-                        </div><!-- end meta -->
+                        <h5><a href="#">Image1</a></h5>
                     </article>
 
                     <article class="item cat1">
@@ -49,10 +46,7 @@
                                 </div>
                             </div>  
                         </div>
-                        <h5><a href="#">Image3</a></h5>       
-                        <div class="meta">
-                            <span><i class="fa fa-folder-o"></i> Residential</span>
-                        </div><!-- end meta -->
+                        <h5><a href="#">Image2</a></h5>
                     </article>
 
                     <article class="item cat1">
@@ -64,10 +58,7 @@
                                 </div>
                             </div>  
                         </div>
-                        <h5><a href="#">Image3</a></h5>       
-                        <div class="meta">
-                            <span><i class="fa fa-folder-o"></i> Residential</span>
-                        </div><!-- end meta -->
+                        <h5><a href="#">Image3</a></h5>
                     </article>
                 <!-- **************end cat1******************* -->
 
@@ -81,10 +72,7 @@
                                 </div>
                             </div>  
                         </div> 
-                        <h5><a href="#">Image1</a></h5>       
-                        <div class="meta">
-                            <span><i class="fa fa-folder-o"></i> Commercial</span>
-                        </div><!-- end meta -->
+                        <h5><a href="#">Image4</a></h5>
                     </article>
 
                     <article class="item cat2">
@@ -96,10 +84,7 @@
                                 </div>
                             </div>  
                         </div>
-                        <h5><a href="#">Image1</a></h5>       
-                        <div class="meta">
-                            <span><i class="fa fa-folder-o"></i> Residential</span>
-                        </div><!-- end meta -->
+                        <h5><a href="#">Image5</a></h5>
                     </article>
 
                     <article class="item cat2">
@@ -111,10 +96,7 @@
                                 </div>
                             </div>  
                         </div>
-                        <h5><a href="#">Image1</a></h5>       
-                        <div class="meta">
-                            <span><i class="fa fa-folder-o"></i> Residential</span>
-                        </div><!-- end meta -->
+                        <h5><a href="#">Image6</a></h5>
                     </article>
 
                     <article class="item cat2">
@@ -126,10 +108,7 @@
                                 </div>
                             </div>  
                         </div>
-                        <h5><a href="#">Image1</a></h5>       
-                        <div class="meta">
-                            <span><i class="fa fa-folder-o"></i> Residential</span>
-                        </div><!-- end meta -->
+                        <h5><a href="#">Image7</a></h5>
                     </article>
 
                     <article class="item cat2">
@@ -141,10 +120,7 @@
                                 </div>
                             </div>  
                         </div>
-                        <h5><a href="#">Image1</a></h5>       
-                        <div class="meta">
-                            <span><i class="fa fa-folder-o"></i> Residential</span>
-                        </div><!-- end meta -->
+                        <h5><a href="#">Image8</a></h5>
                     </article>
 
                 <!-- **************end cat2******************* -->
@@ -159,10 +135,7 @@
                                 </div>
                             </div>  
                         </div>
-                        <h5><a href="#">Image2</a></h5>       
-                        <div class="meta">
-                            <span><i class="fa fa-folder-o"></i> Residential</span>
-                        </div><!-- end meta -->
+                        <h5><a href="#">Image9</a></h5>
                     </article>                        
 
                     <article class="item cat3">
@@ -174,10 +147,7 @@
                                 </div>
                             </div>  
                         </div>
-                        <h5><a href="#">Image2</a></h5>       
-                        <div class="meta">
-                            <span><i class="fa fa-folder-o"></i> Building</span>
-                        </div><!-- end meta -->
+                        <h5><a href="#">Image10</a></h5>
                     </article>
 
                     <article class="item cat3">
@@ -189,10 +159,7 @@
                                 </div>
                             </div>  
                         </div>
-                        <h5><a href="#">Image2</a></h5>       
-                        <div class="meta">
-                            <span><i class="fa fa-folder-o"></i> Building</span>
-                        </div><!-- end meta -->
+                        <h5><a href="#">Image11</a></h5>
                     </article>
 
                     <article class="item cat3">
@@ -204,10 +171,7 @@
                                 </div>
                             </div>  
                         </div>
-                        <h5><a href="#">Image2</a></h5>       
-                        <div class="meta">
-                            <span><i class="fa fa-folder-o"></i> Building</span>
-                        </div><!-- end meta -->
+                        <h5><a href="#">Image12</a></h5>
                     </article>
 
                     <article class="item cat3">
@@ -219,10 +183,7 @@
                                 </div>
                             </div>  
                         </div>
-                        <h5><a href="#">Image2</a></h5>       
-                        <div class="meta">
-                            <span><i class="fa fa-folder-o"></i> Building</span>
-                        </div><!-- end meta -->
+                        <h5><a href="#">Image13</a></h5>
                     </article>
 
                     <article class="item cat3">
@@ -234,10 +195,7 @@
                                 </div>
                             </div>  
                         </div>
-                        <h5><a href="#">Image2</a></h5>       
-                        <div class="meta">
-                            <span><i class="fa fa-folder-o"></i> Building</span>
-                        </div><!-- end meta -->
+                        <h5><a href="#">Image14</a></h5>
                     </article>
 
                     <article class="item cat3">
@@ -249,12 +207,76 @@
                                 </div>
                             </div>  
                         </div>
-                        <h5><a href="#">Image2</a></h5>       
-                        <div class="meta">
-                            <span><i class="fa fa-folder-o"></i> Building</span>
-                        </div><!-- end meta -->
+                        <h5><a href="#">Image15</a></h5>
                     </article>  
                 <!-- **************end cat3******************* -->
+
+                <!-- **************cat4******************* -->
+
+                    <article class="item cat4">
+                        <div class="entry">
+                            <img src="assets/upload/work_photos/portfolio_16.jpg" alt="" class="img-responsive customimage">
+                            <div class="magnifier">
+                                <div class="buttons">
+                                    <a data-rel="prettyPhoto" href="assets/upload/work_photos/portfolio_16.jpg" title=""><i class="fa fa-search"></i></a>
+                                </div>
+                            </div>  
+                        </div>
+                        <h5><a href="#">Image16</a></h5>
+                    </article>
+
+                    <article class="item cat4">
+                        <div class="entry">
+                            <img src="assets/upload/work_photos/portfolio_17.jpg" alt="" class="img-responsive customimage">
+                            <div class="magnifier">
+                                <div class="buttons">
+                                    <a data-rel="prettyPhoto" href="assets/upload/work_photos/portfolio_17.jpg" title=""><i class="fa fa-search"></i></a>
+                                </div>
+                            </div>  
+                        </div>
+                        <h5><a href="#">Image17</a></h5>
+                    </article>
+
+                    <article class="item cat4">
+                        <div class="entry">
+                            <img src="assets/upload/work_photos/portfolio_18.jpg" alt="" class="img-responsive customimage">
+                            <div class="magnifier">
+                                <div class="buttons">
+                                    <a data-rel="prettyPhoto" href="assets/upload/work_photos/portfolio_18.jpg" title=""><i class="fa fa-search"></i></a>
+                                </div>
+                            </div>  
+                        </div>
+                        <h5><a href="#">Image18</a></h5>
+                    </article>
+
+                    <article class="item cat4">
+                        <div class="entry">
+                            <img src="assets/upload/work_photos/portfolio_19.jpg" alt="" class="img-responsive customimage">
+                            <div class="magnifier">
+                                <div class="buttons">
+                                    <a data-rel="prettyPhoto" href="assets/upload/work_photos/portfolio_19.jpg" title=""><i class="fa fa-search"></i></a>
+                                </div>
+                            </div>  
+                        </div>
+                        <h5><a href="#">Image19</a></h5>
+                    </article>
+
+                    <article class="item cat4">
+                        <div class="entry">
+                            <img src="assets/upload/work_photos/portfolio_20.jpg" alt="" class="img-responsive customimage">
+                            <div class="magnifier">
+                                <div class="buttons">
+                                    <a data-rel="prettyPhoto" href="assets/upload/work_photos/portfolio_20.jpg" title=""><i class="fa fa-search"></i></a>
+                                </div>
+                            </div>  
+                        </div>
+                        <h5><a href="#">Image20</a></h5>       
+                        <!-- <div class="meta">
+                            <span><i class="fa fa-folder-o"></i> Building</span>
+                        </div> --><!-- end meta -->
+                    </article>
+
+                <!-- **************end cat4******************* -->
                 </div>
 
                 <!-- <nav class="text-center">

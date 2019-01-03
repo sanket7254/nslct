@@ -1,4 +1,16 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/2.1.0/sweetalert.min.js" ></script>
+<?php if ($this->session->flashdata('success')): ?>
+        <script>
+            swal({
+                title: "Done",
+                text: "<?php echo $this->session->flashdata('success'); ?>",
+                icon: "success",
+                showConfirmButton: false,
+                type: 'success'
+            });
+        </script>
+<?php endif; ?>
 <section id="page-header" class="section background">
     <div class="container">
         <div class="row">
@@ -38,23 +50,16 @@
         
                 <div class="contact_form col-md-8">
                     <div id="message"></div>
-                    <form id="contactform" class="row" action="HomeController/contactus" method="post">
-                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-                            <input type="text" name="name" class="form-control" placeholder="Name"> 
+                    <form id="commentform" class="row" name="contactform" method="post"  action="HomeController/contact_info">
+                        <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                            <input type="text" name="name" id="name" class="form-control" placeholder="Name" required> 
+                            <input type="text" name="email" id="email1" class="form-control" placeholder="Email" required> 
+                            <input type="text" name="phone" id="phone" class="form-control" placeholder="Phone" required>
                         </div>
-                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-                            <input type="text" name="email" class="form-control" placeholder="Email"> 
-                        </div>
-                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-                            <input type="text" name="phone" class="form-control" placeholder="Phone"> 
-                        </div>
-                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                            <textarea class="form-control" name="comments" rows="6" placeholder="Message Below"></textarea>
-                            <div class="pull-left">
-                                <p>* Note: Your email will be kept safe and sound</p>
-                            </div>
+                        <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                            <textarea class="form-control" name="comments" id="comments" rows="8" placeholder="Message Below"></textarea>
                             <div class="pull-right">
-                                <button type="submit"><i class="fa fa-paper-plane-o"></i> SEND MAIL</button>
+                                <button type="submit" value="SEND" id="submit" class="btn btn-dark">SUBMIT</button>
                             </div>
                         </div>
                     </form> 

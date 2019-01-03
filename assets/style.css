@@ -2178,5 +2178,5 @@ header.header.affix {
 }
 .customimage
 {
-	max-height: 245.59px;
+	height: 245.59px !important;
 }

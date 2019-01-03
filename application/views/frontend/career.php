@@ -5,7 +5,6 @@
                 title: "Done",
                 text: "<?php echo $this->session->flashdata('success'); ?>",
                 icon: "success",
-                timer: 1500,
                 showConfirmButton: false,
                 type: 'success'
             });
