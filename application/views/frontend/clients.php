@@ -44,14 +44,14 @@
                      <div class="col-md-3">
                         <center>
                             
-                            <img src="assets/upload/logo/logo/Untitled-2.png" class="style_prevu_kit" alt="" style="width: 200px;">
+                            <img src="assets/upload/logo/logo/Untitled-1.png" class="style_prevu_kit" alt="" style="width: 200px;">
                         
                         </center>
                     </div>
                     <div class="col-md-3">
                         <center>
                             
-                            <img src="assets/upload/logo/logo/Untitled-3.png" class="style_prevu_kit" alt="" style="width: 200px;">
+                            <img src="assets/upload/logo/logo/Untitled-1.png" class="style_prevu_kit" alt="" style="width: 200px;">
                         
                         </center>
                     </div>
