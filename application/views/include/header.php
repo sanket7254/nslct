@@ -70,7 +70,7 @@
                             <a href="aboutus" class="dropdown-toggle" data-toggle="dropdown">About<span class="fa fa-angle-down"></span></a>
                             <ul class="dropdown-menu">
                                 <li><a href="aboutus">About US</a></li>
-                                <li><a href="#">Our Clients</a></li>
+                                <li><a href="clients">Our Clients</a></li>
                                 <li><a href="career">Careers</a></li>
                             </ul>
                         </li>

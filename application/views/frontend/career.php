@@ -15,7 +15,7 @@
     <div class="container">
         <div class="row">
             <div class="col-sm-12 text-center">
-                <h3>Career With US </h3>
+                <h3>Career With US</h3>
             </div>
         </div><!-- end row -->
     </div><!-- end container -->

@@ -34,10 +34,9 @@
                         </div>
                         <div class="text-widget">
                             <ul>   
-                                <li>NSL Construction Technology, Inc.</li>
-                                <li>B-12, KM Park, Near Kohali Gas Agency, Dehu Road,Pune- 412 101</li>
-                                <li>Phone: +91 81496 73601<br>Email: support@nslct.in</li>
-                                <li>http://www.nsltc_constructions.com</li>
+                                
+                                <li>Phone: +91 81496 73601<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+91 98223 68448<br>Email: support@nslct.in</li>
+                                <li>Website: http://www.nsltc_constructions.com</li>
                             </ul>
                         </div><!-- end text-widget -->
                     </div><!-- end widget -->
@@ -50,8 +49,8 @@
                         </div>
                         <div class="list-widget">
                             <ul>
-                                <li><a href="#">NSL Headbranch Pune</a></li>
-                                
+                                <li>NSL Construction Technology, Pvt. Ltd.</li>
+                                <li>B-12, KM Park, Near Kohali Gas Agency, Dehu Road,Pune- 412 101</li>
                             </ul>
                         </div><!-- end text-widget -->
                     </div><!-- end widget -->
@@ -68,7 +67,7 @@
                 <a href="#"><i class="fa fa-google-plus"></i></a>
             </div><!-- end social -->
             <div class="copymessage">
-                <p>2018 NSL Construction Technology. Designed with <i class="fa fa-heart-o"></i> from Mavericks TechnoLabs(India) Pvt. Ltd.</p>
+                <p>2019 NSL Construction Technology. Designed with <i class="fa fa-heart-o"></i> from Mavericks TechnoLabs(India) Pvt. Ltd.</p>
             </div><!-- end copymessage -->
         </div><!-- end container -->
     </div><!-- end copyright -->
@@ -76,6 +75,7 @@
         
     <!-- Template core JavaScript's
     ================================================== -->
+    
     <script src="assets/js/jquery.min.js"></script>
     <script src="assets/js/bootstrap.min.js"></script>
     <script src="assets/js/retina.js"></script>
@@ -84,6 +84,7 @@
     <script src="assets/js/owl.carousel.js"></script>
     <script src="assets/js/jquery.prettyPhoto.js"></script>
     <script src="assets/js/isotope.js"></script>
+    <script src="assets/js/masonry.js"></script>
     <script src="assets/rs-plugin/js/jquery.themepunch.tools.min.js"></script>   
     <script src="assets/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
     <script src="assets/js/custom.js"></script>
@@ -122,6 +123,8 @@
         jQuery("a[data-rel^='prettyPhoto']").prettyPhoto({animationSpeed:'slow',theme:'dark_square',slideshow:false,overlay_gallery: false,social_tools:false,deeplinking:false});
     })(jQuery);
 </script>
+
+
 
 
 
